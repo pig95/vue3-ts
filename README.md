@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # vue3-ts
 
 ## Project setup
@@ -23,6 +22,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
 新文件
->>>>>>> ca9cae352a24c0f414c387ab43fcdbc04f1c06bd
